@@ -1,0 +1,1 @@
+An implementation of a simple shell in C capable of piping commands, handling output and input redirection, and background running using concepts of processes and system calls such as exec(), pipe() and dup2().
